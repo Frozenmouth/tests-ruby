@@ -17,15 +17,8 @@ def sum(array)
   return sum
 end
 
-def multiply(array)
-  product = 1
-  i = 0
-  while i < array.length
-    product *= array[i] 
-    i += 1 
-  end
-
-  return product
+def multiply(a,b)
+  a * b
 end
 
 def power(num1, num2)
