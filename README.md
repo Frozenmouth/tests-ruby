@@ -1,4 +1,4 @@
-Small exercices in Ruby -- RSpec 3 Edition
+Small exercices in Ruby -- RSpec 3 Edition / Exercices realises par MARTIN Alexis et RAMIREZ Remy
 ==========
 
 ### Set up instructions
