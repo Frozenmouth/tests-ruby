@@ -65,7 +65,7 @@ end
 # http://en.wikipedia.org/wiki/Factorial
 describe "#factorial" do
   it "computes the factorial of 0" do
-    factorial(0).should == 0
+    factorial(0).should == 1
   end
   it "computes the factorial of 1" do
     factorial(1).should == 1
